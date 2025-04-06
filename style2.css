@@ -1,0 +1,28 @@
+.card{
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: solid 2px navy;
+    margin: 20px;
+    padding: 40px;
+
+}
+.icone1{
+    background-image: url('https://cdn-icons-png.flaticon.com/512/706/706830.png');
+    width: 100px;
+    height: 100px; /* px ela não se adapta aos ambientes, ela é fixa na. Enquannto o % é flexível á tela.*/
+    margin-top: 20px;
+    background-size: cover; /*cover: quando se coloca uma imagem redimencionando na div*/
+}
+
+.icone2{
+    background-image: url('https://cdn-icons-png.flaticon.com/512/706/706830.png');
+    width: 100px;
+    height: 100px; /* px ela não se adapta aos ambientes, ela é fixa na. Enquannto o % é flexível á tela.*/
+    margin-top: 20px;
+    background-size: cover; /*cover: quando se coloca uma imagem redimencionando na div*/
+}
+.main-color {
+    color: navy;
+}
